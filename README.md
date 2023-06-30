@@ -44,8 +44,11 @@ Open your web browser and navigate to http://localhost:3000 to access the applic
 
 ## Usage
 This application can work as a product information dashboard . 
+
  ![stats (2)](https://github.com/Aditi22kashyap/Assignment-mern/assets/108919601/306323d8-9daf-44b0-b478-5b91ed50020e)
+ 
 ![transaction table (2)](https://github.com/Aditi22kashyap/Assignment-mern/assets/108919601/8b09a528-db61-4d83-ad80-b8ee514f40d3)
+
 ![transactionschart (2)](https://github.com/Aditi22kashyap/Assignment-mern/assets/108919601/ab76aeb9-5eff-4495-8381-743564e8c371)
 
 
@@ -53,9 +56,9 @@ This application can work as a product information dashboard .
 https://s3.amazonaws.com/roxiler.com/product_transaction.json
 
 ## API Endpoints
-https://gentle-lime-veil.cyclic.app/chartdata
-https://gentle-lime-veil.cyclic.app/getproducts
-https://gentle-lime-veil.cyclic.app/statistics
+1.  https://gentle-lime-veil.cyclic.app/chartdata  
+2.  https://gentle-lime-veil.cyclic.app/getproducts
+3.  https://gentle-lime-veil.cyclic.app/statistics
 
 
 ## Technology Stack
