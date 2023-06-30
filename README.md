@@ -63,8 +63,8 @@ https://s3.amazonaws.com/roxiler.com/product_transaction.json
 
 ## Technology Stack
 Technologies used in this project were – 
--React 
--Node.js
+-  React 
+-  Node.js
 - Express.js
 - MongoDB
 
